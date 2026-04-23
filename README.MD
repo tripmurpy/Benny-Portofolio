@@ -49,6 +49,8 @@
 
 BennyCash eliminates the friction of daily expense tracking by transforming it into a natural chat experience. Powered by an ensemble of cutting-edge AI models, it doesn't just listen — it **sees**, **hears**, and **understands**.
 
+🛠️ Note: This project is currently under active development.
+
 **🎯 Key Capabilities:**
 - **💬 Natural Language Input** — Type `"Beli kopi 25rb di Starbucks"` and AI auto-categorizes, deducts balance, and records it
 - **👁️ Receipt Scanning (Qwen VL)** — Snap a photo of any receipt. AI extracts items, prices, dates, and totals automatically
@@ -64,7 +66,7 @@ BennyCash eliminates the friction of daily expense tracking by transforming it i
 ```
 Python · LangChain · Supabase pgvector · Groq Whisper · Qwen VL · Telegram Bot API
 ```
-🛠️ Note: This project is currently under active development.
+
 ---
 
 ### 🏪 Benny CS — AI Customer Service for Business
@@ -143,7 +145,9 @@ Python · Telegram Bot API · ChromaDB · Gemini AI · SentenceTransformers · H
 
 </div>
 
-CookPal is an AI-powered culinary assistant designed to solve the daily dilemma of "what should I cook?" It eliminates mealtime indecision by allowing users to simply input the ingredients currently available in their kitchen. Leverageing intelligent algorithms, CookPal generates personalized, step-by-step recipe recommendations tailored specifically to what the user has on hand. I was responsible for the end-to-end design and implementation of this dynamic, pantry-to-plate logic
+CookPal is an AI-powered culinary assistant designed to solve the daily dilemma of "what should I cook?" It eliminates mealtime indecision by allowing users to simply input the ingredients currently available in their kitchen. Leverageing intelligent algorithms, CookPal generates personalized, step-by-step recipe recommendations tailored specifically to what the user has on hand. I was responsible for the end-to-end design and implementation of this dynamic, pantry-to-plate logic.
+
+
 🛠️ Note: This project is currently under active development.
 
 **🎯 Key Capabilities:**
