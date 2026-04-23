@@ -14,6 +14,11 @@
 
 > 🎯 **Open to opportunities** in AI Engineering, Data Engineering, or Backend Development.
 
+---
+
+### 📂 Quick Project Access
+[💰 BennyCash](https://github.com/tripmurpy/Benny-Personal-Money-Assistant) • [🏪 Benny CS](https://github.com/tripmurpy/West-group-store) • [💊 Apotek AI](https://github.com/tripmurpy/Project-chatbot-Apotek) • [🍳 CookPal AI](https://github.com/tripmurpy/cookpal-rag) • [📋 ASKY](https://github.com/tripmurpy/asky-project)
+
 </div>
 
 ---
