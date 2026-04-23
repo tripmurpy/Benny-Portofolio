@@ -155,7 +155,6 @@ CookPal is an AI-powered culinary assistant designed to solve the daily dilemma 
 - **🔍 Semantic Search** — Supabase pgvector with `BAAI/bge-m3` multilingual embeddings
 - **⚡ Groq LLM** — Fast, accurate response generation via LangChain
 - **📊 Large-Scale Data Processing** — Cleaned and preprocessed massive recipe datasets
-- **🤖 Telegram Bot Interface** — Deployed and accessible via Telegram
 - **☁️ Railway Deployment** — Production-ready cloud hosting
 
 ```
