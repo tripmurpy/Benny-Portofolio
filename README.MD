@@ -64,7 +64,7 @@ BennyCash eliminates the friction of daily expense tracking by transforming it i
 ```
 Python · LangChain · Supabase pgvector · Groq Whisper · Qwen VL · Telegram Bot API
 ```
-
+🛠️ Note: This project is currently under active development.
 ---
 
 ### 🏪 Benny CS — AI Customer Service for Business
@@ -143,7 +143,8 @@ Python · Telegram Bot API · ChromaDB · Gemini AI · SentenceTransformers · H
 
 </div>
 
-CookPal is a full-stack RAG application built from scratch — from data ingestion to user-facing Telegram bot. It demonstrates end-to-end mastery of the RAG pipeline: data cleaning, chunking strategies, embedding generation, vector storage, retrieval logic, and LLM response orchestration.
+CookPal is an AI-powered culinary assistant designed to solve the daily dilemma of "what should I cook?" It eliminates mealtime indecision by allowing users to simply input the ingredients currently available in their kitchen. Leverageing intelligent algorithms, CookPal generates personalized, step-by-step recipe recommendations tailored specifically to what the user has on hand. I was responsible for the end-to-end design and implementation of this dynamic, pantry-to-plate logic
+🛠️ Note: This project is currently under active development.
 
 **🎯 Key Capabilities:**
 - **📚 Full RAG Pipeline** — Designed and built from scratch: ingestion → chunking → embedding → retrieval → generation
